@@ -42,3 +42,10 @@ java -jar hello-world.jar
 * @EnableAutoConfiguration
 * @ComponentScan
 
+
+### 其他
+
+本代码来源于《微服务架构与实践》视频课，更多内容请访问[详情](http://www.stuq.org/course/1149)
+
+![微服务架构与实践](/images/2nd-intro.png)
+![微服务架构与实践](/images/content.png)
