@@ -1,4 +1,4 @@
-### 第2课 SpringBoot介绍
+### 第2课 SpringBoot 101
 
 #### 核心知识点
 
